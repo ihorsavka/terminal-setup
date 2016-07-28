@@ -1,4 +1,4 @@
-# terminal-setu
+# terminal-setup
 
 ## to write git alias 
 #### vim ~/.gitconfig
